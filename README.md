@@ -1,6 +1,7 @@
 # Crowdfunding_ETL
 second project
 note: comments in notebook include sources/references.
+# hana: managing repo on github
 # tuesday: hana and tysen are working.
 - all steps under "Extract the crowdfunding.xlsx Data"
   - reading data
